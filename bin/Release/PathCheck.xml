@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<path>
+  <item value="Portal/bin/ICIS.Portal.dll">ICIS.Presentation/ICIS.Portal</item>
+  <item value="Portal/bin/ICIS.Domain.dll">ICIS.Domain/</item>
+  <item value="Portal/bin/ICIS.Objects.dll">ICIS.Objects/</item>
+  <item value="Portal/bin/ICIS.DataAccess.dll">ICIS.DataAccess/</item>
+</path>

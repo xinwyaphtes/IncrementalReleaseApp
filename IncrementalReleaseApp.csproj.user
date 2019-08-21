@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartArguments>ICIS_北京301医院 C:\Users\Mike\Desktop https://192.168.0.82:8443/svn/ICIS2018/branches/ICIS4s_B04_20180402_北京301</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>ICIS_ICIS4s_B12_20190410_商丘市第一人民医院-重症医学临床信息系统应用软件V4.0 E:\ICISPublishPackage\ICIS_ICIS4s_B12_20190410_商丘市第一人民医院-重症医学临床信息系统应用软件V4.0\2019-08-21\Framework\Build\Release D:\Jenkins\workspace\ICIS_ICIS4s_B12_20190410_商丘市第一人民医院-重症医学临床信息系统应用软件V4.0\ https://192.168.0.82:8443/svn/ICIS2018/branches/ICIS4s_B12_20190419_商丘市第一人民医院 6</StartArguments>
+  </PropertyGroup>
+</Project>

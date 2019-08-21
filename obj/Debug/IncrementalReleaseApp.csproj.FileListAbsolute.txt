@@ -1,0 +1,74 @@
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\PathCheck.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\XMLFile1.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\IncrementalReleaseApp.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\IncrementalReleaseApp.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\IncrementalReleaseApp.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\DotNetZip.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\Jenkins.Net.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\Rebex.Common.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\SharpSvn.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\SharpSvn.UI.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\DotNetZip.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\DotNetZip.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\Jenkins.Net.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\Rebex.Common.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\SharpSvn.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\SharpSvn.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\SharpSvn.UI.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\SharpSvn.UI.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\bin\Debug\SharpPlink-x64.svnExe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\obj\Debug\IncrementalReleaseApp.csproj.ResolveComReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\obj\Debug\IncrementalReleaseApp.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\TestTest\obj\Debug\IncrementalReleaseApp.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\IncrementalReleaseApp.exe.config
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\obj\Debug\IncrementalReleaseApp.csproj.ResolveComReference.cache
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\obj\Debug\IncrementalReleaseApp.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\obj\Debug\IncrementalReleaseApp.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\PathCheck.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\IncrementalReleaseApp.exe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\IncrementalReleaseApp.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\DotNetZip.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\Jenkins.Net.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\Rebex.Common.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\SharpSvn.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\SharpSvn.UI.dll
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\DotNetZip.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\DotNetZip.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\Jenkins.Net.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\Rebex.Common.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\SharpSvn.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\SharpSvn.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\SharpSvn.UI.pdb
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\SharpSvn.UI.xml
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\bin\Debug\SharpPlink-x64.svnExe
+C:\Users\Mike\Documents\Visual Studio 2015\Projects\TestTest\IncrementalReleaseApp\obj\Debug\IncrementalReleaseApp.csprojResolveAssemblyReference.cache
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\PathCheck.xml
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\IncrementalReleaseApp.exe.config
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\IncrementalReleaseApp.exe
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\IncrementalReleaseApp.pdb
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\DotNetZip.dll
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\Jenkins.Net.dll
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\Newtonsoft.Json.dll
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\Rebex.Common.dll
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\SharpSvn.dll
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\SharpSvn.UI.dll
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\DotNetZip.pdb
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\DotNetZip.xml
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\Jenkins.Net.xml
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\Newtonsoft.Json.xml
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\Rebex.Common.xml
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\SharpSvn.pdb
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\SharpSvn.xml
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\SharpSvn.UI.pdb
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\SharpSvn.UI.xml
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\bin\Debug\SharpPlink-x64.svnExe
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\obj\Debug\IncrementalReleaseApp.csproj.ResolveComReference.cache
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\obj\Debug\IncrementalReleaseApp.csproj.CoreCompileInputs.cache
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\obj\Debug\IncrementalReleaseApp.csproj.CopyComplete
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\obj\Debug\IncrementalReleaseApp.exe
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\obj\Debug\IncrementalReleaseApp.pdb
+D:\1.米健医疗\1.基线开发\Jenkins自动发布\源码\SVN-Jenkins-IncreasementalPub\obj\Debug\IncrementalReleaseApp.csprojAssemblyReference.cache
