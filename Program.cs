@@ -99,8 +99,11 @@ namespace IncrementalRelease
                         case "cshtml":
                         case "asmx":
                             //非dll文件添加完整路径
-                            var relativepath = path.Path.Substring(path.Path.LastIndexOf(packname) + packname.Length);
-                            tempdic.Add(path.Path, relativepath);
+                            if (!tempdic.ContainsKey(path.Path))
+                            {
+                                var relativepath = path.Path.Substring(path.Path.LastIndexOf(packname) + packname.Length);
+                                tempdic.Add(path.Path, relativepath);
+                            }
                             break;
                         default:
                             break;
@@ -113,13 +116,12 @@ namespace IncrementalRelease
                 foreach (var t in tempdic)
                 {
                     // add this map file into the "images" directory in the zip archive
-
                     if (t.Value.IndexOf('.') > 0)
                     {
-                        zip.AddFile(srcpath + (t.Value), t.Value);
+                        zip.AddFile(srcpath + (t.Value), t.Value.Substring(0, t.Value.LastIndexOf('/')));
                     }
                 }
-                zip.AddDirectory(jobpath+"\\脚本", "脚本");
+                //zip.AddDirectory(jobpath + "\\脚本", "脚本");
                 zip.Save(srcpath + "\\patch" + DateTime.Now.ToString("_yyyyMMdd") + ".zip");
             }
 
